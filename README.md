@@ -6,4 +6,4 @@ HOWTO Run tests
 4. Run all tests together or individually as you please.
 
 * Assumptions I made over the input of each algorithm are stated as a comment above each test. *
-If you have any improvement recommendation, end cases or if any of the tests are not working, please contact me @ omri.wolf1@mail.huji.ac.il
+* If you have any improvement recommendation, end cases or if any of the tests are not working, please contact me @ omri.wolf1@mail.huji.ac.il
